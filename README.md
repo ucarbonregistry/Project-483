@@ -37,4 +37,63 @@ QTY: 1531228
 
 MP-01: 2014-2023
 ________________
- 
+Serial Number: 0001-000001-150672-UCR-RoU-IN-483-01062014-31122014
+
+Vintage Year: 2014
+
+Quantity: 150672
+______________
+Serial Number: 0001-150673-303149-UCR-RoU-IN-483-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 152477
+_____________
+Serial Number: 0001-303150-456661-UCR-RoU-IN-483-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 153512
+_____________
+Serial Number: 0001-456662-610112-UCR-RoU-IN-483-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 153451
+____________
+Serial Number: 0001-610113-764302-UCR-RoU-IN-483-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 154190
+___________
+Serial Number: 0001-764303-917767-UCR-RoU-IN-483-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 153465
+__________
+Serial Number: 0001-917768-1071104-UCR-RoU-IN-483-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 153337
+___________
+Serial Number: 0001-1071105-1224248-UCR-RoU-IN-483-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 153144
+______________
+Serial Number: 0001-1224249-1378031-UCR-RoU-IN-483-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 153783
+____________
+Serial Number: 0001-1378032-1531227-UCR-RoU-IN-483-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 153196
+______________
